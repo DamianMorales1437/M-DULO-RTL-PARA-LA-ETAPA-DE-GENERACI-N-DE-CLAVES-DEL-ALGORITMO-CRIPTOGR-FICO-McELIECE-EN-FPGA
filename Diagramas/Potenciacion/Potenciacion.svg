@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920mm"
+   height="1080mm"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="Potenciacion.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.060466646"
+     inkscape:cx="4076.6277"
+     inkscape:cy="-388.64402"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 127.7841,247.52467 v 14.90469 h 9.16161 l 4.92265,-7.52071 -5.19613,-7.52073 z"
+       id="path42-9-8"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="Potenciacion.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       id="rect18"
+       width="157.7981"
+       height="153.15698"
+       x="200.80983"
+       y="128.62744" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       x="204.17813"
+       y="121.23394"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         style="font-size:19.05px;line-height:15.875px;fill:#000000;stroke-width:0.5;stroke-dasharray:none"
+         x="204.17813"
+         y="121.23394">Multiplicacion 0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none"
+       x="218.35081"
+       y="159.6828"
+       id="text22"><tspan
+         sodipodi:role="line"
+         id="tspan22"
+         style="stroke-width:0.5"
+         x="218.35081"
+         y="159.6828">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none"
+       x="213.42812"
+       y="261.69113"
+       id="text23"><tspan
+         sodipodi:role="line"
+         id="tspan23"
+         style="stroke-width:0.5"
+         x="213.42812"
+         y="261.69113">BAS</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 358.91983,168.70767 165.72928,1.09392"
+       id="path25" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 200.84801,255.40105 -59.61877,-1e-5"
+       id="path26"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.81944px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       x="101.08598"
+       y="258.72101"
+       id="text26"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         style="stroke-width:0.5;stroke-dasharray:none"
+         x="101.08598"
+         y="258.72101">BAS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.81944px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none"
+       x="270.02847"
+       y="171.22601"
+       id="text27"><tspan
+         sodipodi:role="line"
+         id="tspan27"
+         style="stroke-width:0.5"
+         x="270.02847"
+         y="171.22601">Multiplicacion</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999"
+       x="218.13268"
+       y="210.82785"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         x="218.13268"
+         y="210.82785">B</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 126.8604,197.88759 v 14.90469 h 9.16161 l 4.92265,-7.52071 -5.19613,-7.52073 z"
+       id="path42-9-8-5"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 199.92431,205.76397 -59.61877,-1e-5"
+       id="path26-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 128.11214,146.17161 v 14.90469 h 9.16161 l 4.92265,-7.52071 -5.19613,-7.52073 z"
+       id="path42-9-8-2"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 201.17605,154.04799 -59.61877,-1e-5"
+       id="path26-3"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none"
+       x="102.07011"
+       y="159.97952"
+       id="text22-8"><tspan
+         sodipodi:role="line"
+         id="tspan22-5"
+         style="stroke-width:0.5"
+         x="102.07011"
+         y="159.97952">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none"
+       x="102.76274"
+       y="214.0993"
+       id="text22-9"><tspan
+         sodipodi:role="line"
+         id="tspan22-2"
+         style="stroke-width:0.5"
+         x="102.76274"
+         y="214.0993">A</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 475.67118,263.19264 v 14.90469 h 9.16161 l 4.92265,-7.52071 -5.19613,-7.52073 z"
+       id="path42-9-8-1"
+       sodipodi:nodetypes="cccccc" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       id="rect18-1"
+       width="157.7981"
+       height="153.15698"
+       x="548.6969"
+       y="144.29541" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       x="553.70605"
+       y="137.99583"
+       id="text19-3"><tspan
+         sodipodi:role="line"
+         id="tspan19-8"
+         style="font-size:19.05px;line-height:15.875px;fill:#000000;stroke-width:0.5;stroke-dasharray:none"
+         x="553.70605"
+         y="137.99583">Multiplicacion 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none"
+       x="566.23792"
+       y="175.35077"
+       id="text22-7"><tspan
+         sodipodi:role="line"
+         id="tspan22-4"
+         style="stroke-width:0.5"
+         x="566.23792"
+         y="175.35077">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none"
+       x="561.31519"
+       y="277.3591"
+       id="text23-2"><tspan
+         sodipodi:role="line"
+         id="tspan23-7"
+         style="stroke-width:0.5"
+         x="561.31519"
+         y="277.3591">BAS</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 707.19367,184.95578 165.72928,1.09392"
+       id="path25-7" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 548.73509,271.06902 -59.61877,-1e-5"
+       id="path26-9"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.81944px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       x="449.35986"
+       y="274.96912"
+       id="text26-3"><tspan
+         sodipodi:role="line"
+         id="tspan26-1"
+         style="stroke-width:0.5;stroke-dasharray:none"
+         x="449.35986"
+         y="274.96912">BAS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.81944px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none"
+       x="617.91559"
+       y="186.89398"
+       id="text27-9"><tspan
+         sodipodi:role="line"
+         id="tspan27-8"
+         style="stroke-width:0.5"
+         x="617.91559"
+         y="186.89398">Multiplicacion</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999"
+       x="566.01978"
+       y="226.49582"
+       id="text1-6"><tspan
+         sodipodi:role="line"
+         id="tspan1-5"
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         x="566.01978"
+         y="226.49582">B</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 547.81139,221.43194 -59.61877,-1e-5"
+       id="path26-2-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 549.06313,169.71596 -59.61877,-1e-5"
+       id="path26-3-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 488.70994,221.51933 0.27347,-52.2348"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 800.80317,279.66774 v 14.90469 h 9.16161 l 4.92265,-7.52071 -5.19613,-7.52073 z"
+       id="path42-9-8-1-9"
+       sodipodi:nodetypes="cccccc" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       id="rect18-1-8"
+       width="157.7981"
+       height="153.15698"
+       x="873.82886"
+       y="160.77051" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       x="879.05322"
+       y="154.76385"
+       id="text19-3-4"><tspan
+         sodipodi:role="line"
+         id="tspan19-8-0"
+         style="font-size:19.05px;line-height:15.875px;fill:#000000;stroke-width:0.5;stroke-dasharray:none"
+         x="879.05322"
+         y="154.76385">Multiplicacion 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none"
+       x="891.36987"
+       y="191.82587"
+       id="text22-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan22-4-6"
+         style="stroke-width:0.5"
+         x="891.36987"
+         y="191.82587">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none"
+       x="886.44714"
+       y="293.8342"
+       id="text23-2-3"><tspan
+         sodipodi:role="line"
+         id="tspan23-7-6"
+         style="stroke-width:0.5"
+         x="886.44714"
+         y="293.8342">BAS</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 1032.3256,201.43088 165.7293,1.09392"
+       id="path25-7-1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 873.86708,287.54412 -59.61877,-1e-5"
+       id="path26-9-5"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.81944px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       x="774.49182"
+       y="291.44421"
+       id="text26-3-4"><tspan
+         sodipodi:role="line"
+         id="tspan26-1-2"
+         style="stroke-width:0.5;stroke-dasharray:none"
+         x="774.49182"
+         y="291.44421">BAS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.81944px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none"
+       x="943.04755"
+       y="203.36908"
+       id="text27-9-0"><tspan
+         sodipodi:role="line"
+         id="tspan27-8-9"
+         style="stroke-width:0.5"
+         x="943.04755"
+         y="203.36908">Multiplicacion</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999"
+       x="891.15173"
+       y="242.97092"
+       id="text1-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan1-5-3"
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         x="891.15173"
+         y="242.97092">B</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 872.94338,237.90704 -59.61877,-1e-5"
+       id="path26-2-2-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 874.19512,186.19106 -59.61877,-1e-5"
+       id="path26-3-6-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 813.84193,237.99443 0.27347,-52.2348"
+       id="path1-6" />
+    <path
+       id="rect4"
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="m 437.79005,382.88769 34.45856,27.34807 v 32.81767 l -34.45856,29.53591 z"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:9.92188px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+       x="439.70551"
+       y="411.7262"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         style="stroke-width:1"
+         x="439.70551"
+         y="411.7262">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:9.92188px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+       x="439.31876"
+       y="453.68967"
+       id="text17"><tspan
+         sodipodi:role="line"
+         id="tspan17"
+         style="stroke-width:1"
+         x="439.31876"
+         y="453.68967">1</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="M 437.0221,403.65746 H 404.75138"
+       id="path2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 437.56905,449.60219 -56.88396,-0.54694 1.64086,-280.59116"
+       id="path3" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       x="406.93921"
+       y="387.24863"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="stroke-width:2"
+         x="406.93921"
+         y="387.24863">1</tspan></text>
+    <path
+       id="rect4-4"
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="M 785.67144,399.4041 820.13,426.75217 v 32.81767 l -34.45856,29.53591 z"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:9.92188px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+       x="787.58685"
+       y="428.24261"
+       id="text16-6"><tspan
+         sodipodi:role="line"
+         id="tspan16-0"
+         style="stroke-width:1"
+         x="787.58685"
+         y="428.24261">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:9.92188px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+       x="787.20013"
+       y="470.20609"
+       id="text17-7"><tspan
+         sodipodi:role="line"
+         id="tspan17-1"
+         style="stroke-width:1"
+         x="787.20013"
+         y="470.20609">1</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="M 784.90349,420.17387 H 752.63277"
+       id="path2-7" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 785.45044,466.1186 -56.88396,-0.54694 1.64086,-280.59116"
+       id="path3-7" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       x="754.82056"
+       y="403.76505"
+       id="text3-7"><tspan
+         sodipodi:role="line"
+         id="tspan3-7"
+         style="stroke-width:2"
+         x="754.82056"
+         y="403.76505">1</tspan></text>
+    <path
+       id="rect4-6"
+       style="fill:none;stroke:#000000;stroke-width:2"
+       d="m 1140.0819,414.73448 34.4586,27.34807 v 32.81767 l -34.4586,29.53591 z"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:9.92188px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+       x="1141.9974"
+       y="443.57297"
+       id="text16-60"><tspan
+         sodipodi:role="line"
+         id="tspan16-3"
+         style="stroke-width:1"
+         x="1141.9974"
+         y="443.57297">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:9.92188px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+       x="1141.6106"
+       y="485.53644"
+       id="text17-8"><tspan
+         sodipodi:role="line"
+         id="tspan17-0"
+         style="stroke-width:1"
+         x="1141.6106"
+         y="485.53644">1</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 1139.3139,435.50425 h -32.2707"
+       id="path2-1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 1139.8609,481.44898 -56.884,-0.54694 1.6409,-280.59116"
+       id="path3-2" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       x="1109.2311"
+       y="419.0954"
+       id="text3-5"><tspan
+         sodipodi:role="line"
+         id="tspan3-0"
+         style="stroke-width:2"
+         x="1109.2311"
+         y="419.0954">1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 799.45299,792.48655 v 14.90469 h 9.16161 l 4.92265,-7.52071 -5.19613,-7.52073 z"
+       id="path42-9-8-1-3"
+       sodipodi:nodetypes="cccccc" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       id="rect18-1-5"
+       width="157.7981"
+       height="153.15698"
+       x="872.4787"
+       y="673.58936" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       x="877.48785"
+       y="667.28979"
+       id="text19-3-1"><tspan
+         sodipodi:role="line"
+         id="tspan19-8-2"
+         style="font-size:19.05px;line-height:15.875px;fill:#000000;stroke-width:0.5;stroke-dasharray:none"
+         x="877.48785"
+         y="667.28979">Multiplicacion 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none"
+       x="890.01971"
+       y="704.64471"
+       id="text22-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan22-4-1"
+         style="stroke-width:0.5"
+         x="890.01971"
+         y="704.64471">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none"
+       x="885.09698"
+       y="806.65308"
+       id="text23-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan23-7-4"
+         style="stroke-width:0.5"
+         x="885.09698"
+         y="806.65308">BAS</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 872.5169,800.36293 -59.61877,-10e-6"
+       id="path26-9-0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.81944px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       x="773.14166"
+       y="804.26306"
+       id="text26-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan26-1-1"
+         style="stroke-width:0.5;stroke-dasharray:none"
+         x="773.14166"
+         y="804.26306">BAS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.81944px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none"
+       x="941.69739"
+       y="716.18793"
+       id="text27-9-8"><tspan
+         sodipodi:role="line"
+         id="tspan27-8-98"
+         style="stroke-width:0.5"
+         x="941.69739"
+         y="716.18793">Multiplicacion</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999"
+       x="889.80157"
+       y="755.78979"
+       id="text1-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan1-5-1"
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         x="889.80157"
+         y="755.78979">B</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 871.5932,750.72585 -59.61877,-1e-5"
+       id="path26-2-2-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 872.84494,699.00987 -59.61877,-10e-6"
+       id="path26-3-6-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1140.7403,791.33691 v 14.90469 h 9.1617 l 4.9226,-7.52071 -5.1961,-7.52073 z"
+       id="path42-9-8-1-7"
+       sodipodi:nodetypes="cccccc" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       id="rect18-1-7"
+       width="157.7981"
+       height="153.15698"
+       x="1213.7661"
+       y="672.4397" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       x="1218.7753"
+       y="666.14008"
+       id="text19-3-8"><tspan
+         sodipodi:role="line"
+         id="tspan19-8-3"
+         style="font-size:19.05px;line-height:15.875px;fill:#000000;stroke-width:0.5;stroke-dasharray:none"
+         x="1218.7753"
+         y="666.14008">Multiplicacion 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none"
+       x="1231.3071"
+       y="703.49506"
+       id="text22-7-8"><tspan
+         sodipodi:role="line"
+         id="tspan22-4-3"
+         style="stroke-width:0.5"
+         x="1231.3071"
+         y="703.49506">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none"
+       x="1226.3844"
+       y="805.50336"
+       id="text23-2-7"><tspan
+         sodipodi:role="line"
+         id="tspan23-7-1"
+         style="stroke-width:0.5"
+         x="1226.3844"
+         y="805.50336">BAS</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 1213.8043,799.21329 -59.6188,-10e-6"
+       id="path26-9-07"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.81944px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       x="1114.4291"
+       y="803.1134"
+       id="text26-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan26-1-4"
+         style="stroke-width:0.5;stroke-dasharray:none"
+         x="1114.4291"
+         y="803.1134">BAS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.81944px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none"
+       x="1282.9847"
+       y="715.03827"
+       id="text27-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan27-8-6"
+         style="stroke-width:0.5"
+         x="1282.9847"
+         y="715.03827">Multiplicacion</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:15.875px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.499999"
+       x="1231.089"
+       y="754.64008"
+       id="text1-6-5"><tspan
+         sodipodi:role="line"
+         id="tspan1-5-10"
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         x="1231.089"
+         y="754.64008">B</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 1212.8805,749.57621 -59.6187,-10e-6"
+       id="path26-2-2-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 1214.1323,697.86023 -59.6188,-10e-6"
+       id="path26-3-6-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 471.84727,426.9831 170.4479,0.0429 -2.27362,324.39853 172.85141,-0.62657"
+       id="path4"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 820.70484,442.4535 51.43909,10e-6 -0.38676,155.8643 -139.50709,-1.38685 -0.45313,101.97196 82.62845,0.38712"
+       id="path5"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 1030.3288,712.79879 97.0767,0.38676 0.3868,36.35544 29.3938,0.38675"
+       id="path6"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 1174.2035,457.92392 h 37.129 v 169.40091 h -57.2405 l -0.094,70.89036"
+       id="path7"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 468.01311,348.95832 h -14.90469 v 9.16161 l 7.52071,4.92265 7.52073,-5.19613 z"
+       id="path42-9-8-1-99"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.81944px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       x="449.6022"
+       y="343.7652"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="font-size:10.5833px;line-height:8.81944px;fill:#000000;stroke-width:0.5;stroke-dasharray:none"
+         x="449.6022"
+         y="343.7652">EXP</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 460.43786,363.36107 -2e-5,36.83889"
+       id="path8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1168.3642,380.26929 h -14.9047 v 9.16161 l 7.5207,4.92265 7.5208,-5.19613 z"
+       id="path42-9-8-1-99-3"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 1160.789,394.67204 v 36.83889"
+       id="path8-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 812.62418,363.53825 h -14.90469 v 9.16161 l 7.52071,4.92265 7.52073,-5.19613 z"
+       id="path42-9-8-1-99-0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 805.04893,377.941 -2e-5,36.83889"
+       id="path8-8"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.81944px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       x="794.00342"
+       y="360.28635"
+       id="text7-1"><tspan
+         sodipodi:role="line"
+         id="tspan7-9"
+         style="font-size:10.5833px;line-height:8.81944px;fill:#000000;stroke-width:0.5;stroke-dasharray:none"
+         x="794.00342"
+         y="360.28635">EXP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.81944px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       x="1149.6189"
+       y="376.91949"
+       id="text7-2"><tspan
+         sodipodi:role="line"
+         id="tspan7-8"
+         style="font-size:10.5833px;line-height:8.81944px;fill:#000000;stroke-width:0.5;stroke-dasharray:none"
+         x="1149.6189"
+         y="376.91949">EXP</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 1371.4512,711.63851 54.5331,-0.38677"
+       id="path9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1438.9888,703.97853 v 14.90469 h -9.1617 l -4.9226,-7.52071 5.1961,-7.52073 z"
+       id="path42-9-8-1-7-7"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.81944px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:1.32292px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       x="1400.0714"
+       y="699.64893"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="stroke-width:0.5;stroke-dasharray:none"
+         x="1400.0714"
+         y="699.64893">Potenciacion</tspan></text>
+  </g>
+</svg>
